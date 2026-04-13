@@ -1,6 +1,6 @@
 # Echoes
 try to find the real flag. remember you were not invited.
-rules- you try to find the flag. there are 3 files. send the name of the file, the flag and the name of the [REDACTED]
+rules- you try to find the flag. there are 4 files. send the name of the file, the flag and the name of the [REDACTED]
 0
 00
 0
